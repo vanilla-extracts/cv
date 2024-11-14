@@ -4,9 +4,9 @@
 #show: project.with(
   title: "IFiP Stagiaire",
   author: "Charlotte Thomas",
-  github: "coco33920",
+  github: "vanilla-extracts",
   phone: "+33 7 81 96 98 54",
-  email: "charlotte@nwa2coco.fr",
+  email: "me@charlotte-thomas.me",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
   pronouns: "She/They 22F",
@@ -63,14 +63,14 @@
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Calc*, _Programming, Language Theory_, A minimalistic configurable rust calculator, GPLv3 on #link("https://github.com/coco33920/calc","GitHub")]
+  description: [*Calc*, _Programming, Language Theory_, A minimalistic configurable rust calculator, GPLv3 on #link("https://github.com/vanilla-extracts/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPLv3 on #link("https://github.com/coco33920/STARFinder","GitHub")]
+  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPLv3 on #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
 )
 
 = Other projects
@@ -87,7 +87,7 @@
   language_name: "Java",
   icon_name: "icons/brand-java.svg",
   language_colour: rgb("5382A1"),
-  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #link("https://github.com/coco33920","GitHub")]
+  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #link("https://github.com/vanilla-extracts","GitHub")]
 )
 
 = Skills

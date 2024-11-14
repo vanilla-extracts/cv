@@ -5,7 +5,7 @@
   title: "IFiP Stagiaire",
   author: "Charlotte Thomas",
   phone: "+33 7 81 96 98 54",
-  email: "charlotte@nwa2coco.fr",
+  email: "me@charlotte-thomas.me",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
   pronouns: "Elle/She/They 22F",
@@ -63,14 +63,14 @@ théorie des langages]
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/coco33920/calc","GitHub")]
+  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/vanilla-extracts/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Théorie des Langages/Développement_, Développement d'un interpréteur et REPL multiplateforme pour un langage ésotérique, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
+  description: [*Baguette\#*, _Théorie des Langages/Développement_, Développement d'un interpréteur et REPL multiplateforme pour un langage ésotérique, GPLv3 sur #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
 )
 
 #cvprogramming(
@@ -78,7 +78,7 @@ théorie des langages]
   language_name: "Java",
   icon_name: "icons/brand-java.svg",
   language_colour: rgb("5382A1"),
-  description: [*Projets Personnels*, _Développement et Administration Système_, Développement de logiciels libres, voir sur #link("https://github.com/coco33920","GitHub")]
+  description: [*Projets Personnels*, _Développement et Administration Système_, Développement de logiciels libres, voir sur #link("https://github.com/vanilla-extracts","GitHub")]
 )
 
 
