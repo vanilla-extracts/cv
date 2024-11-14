@@ -4,14 +4,14 @@
 #show: project.with(
   title: "IFiP Stagiaire",
   author: "Charlotte Thomas",
-  github: "coco33920",
   phone: "+33 7 81 96 98 54",
   email: "charlotte@nwa2coco.fr",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
   pronouns: "Elle/She/They 22F",
-  address: [2 Allée Antoine Osète, 31100 Toulouse]
+  address: [2 allée Antoine Osète, 31100, Toulouse]
 )
+
 
 
 = Expérience Professionnelle 
@@ -48,11 +48,6 @@
 )[Reconnaissance morphologique de plante à l'aide d'une base de données de
 traits définits dans un modèle en théorie des langages de programmations]
 
-#cvlanguage(
-  language: [],
-  description: [*Conférence*, _Pas Sage En Seine_, Choisy-Le-Roi (94), La programmation ludique exotique : le cas du Baguette\#]
-)
-
 #cventry(
   start: (month: "Février", year: 2023),
   end: (month: "Juillet", year: 2023),
@@ -61,7 +56,7 @@ traits définits dans un modèle en théorie des langages de programmations]
 )[Implémentations mathématiques dans un logiciel d'analyse du G-Code en
 théorie des langages]
 
-= Projets Principaux
+= Projets
 
 #cvprogramming(
   language: [2023 - ],
@@ -76,16 +71,6 @@ théorie des langages]
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
   description: [*Baguette\#*, _Théorie des Langages/Développement_, Développement d'un interpréteur et REPL multiplateforme pour un langage ésotérique, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
-)
-
-= Autres Projets
-
-#cvprogramming(
-  language: [2020 - 2022],
-  language_name: "C++",
-  icon_name: "icons/brand-cpp.svg",
-  language_colour: rgb("3c3c3c"),
-  description: [*Omega*, _Développement_, Participation à un _firmware_ communautaire pour les calculatrices Numworks.]
 )
 
 #cvprogramming(

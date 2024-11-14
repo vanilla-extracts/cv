@@ -10,7 +10,6 @@
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
   pronouns: "She/They 22F",
-  address: [2 allée antoine osete \ 31100 Toulouse]
 )
 
 
@@ -47,10 +46,6 @@
   place: "Inria Rennes, EPICURE, France, Rennes (35)"
 )[]
 
-#cvlanguage(
-  language: [],
-  description: [*Talk*, _Pas Sage En Seine_, France, Choisy-Le-Roi (94), Esoteric programmation and its place in the education system]
-)
 
 #cventry(
   start: (month: "February", year: 2023),
