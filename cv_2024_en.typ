@@ -1,4 +1,4 @@
-#import "templates/moderncv.typst/moderncv.typ": *
+#import "moderncv.typ": *
 #import "@preview/stonewall:0.1.0": polygender
 
 #show: project.with(
