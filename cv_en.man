@@ -1,0 +1,68 @@
+\." My CV, in a MAN page!
+\." Contact me@charlotte-thomas.me if needed
+.TH charlotte 8 "2024-11-25" "1.0" "Charlotte's CV"
+
+.SH NAME
+Charlotte's CV
+
+.SH AUTHOR
+Charlotte (Ophélie) Thomas - she/they - <me@charlotte-thomas.me>
+
+Website: https://www.charlotte-thomas.me
+
+Writing blog: https://writing.charlotte-thomas.me
+
+.SH SYNOPSIS
+curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -
+
+.SH INTRODUCTION
+22 y.o French Dev/Sys Admin, Linux Expert, Rust and OCaml lover, Typst supporter. 
+
+.SH WORK
+Sept. 2024 - now. DevOps Engineer, State Civil Servant, Rennes (35), France.
+
+.SH EDUCATION
+Sept. 2022 - June 2024. Bachelor of Science, University of Rennes, France, 
+
+	- Major: Computer Science
+
+	- Minors: System's security and Communication protocols' security
+
+Sept. 2020 - June 2022. Prepa (Cram-School), Lycée Montaigne, Bordeaux, France, Math, Computer Science, Physics
+
+Sept. 2017 - June 2020. High School Diploma, Lycée Gustave Eiffel, Bordeaux, France, Graduated with honors
+
+.SH ACADEMIA
+May 2024 - July 2024. Research Internship, Inria Rennes, Team EPICURE, Rennes, France
+
+Morphological recognition of plants by a characteristcs database (project back-to-the-trees) under the supervision of Simon Castellan <simon.castellan@inria.fr> (http://iso.mor.phis.me/)
+
+Feb. 2023 - July 2023. Research Internship, Inria Rennes, Team PACAP, Rennes, France
+
+Mathematical optimisation of FDM 3D printing (project ofast3d) under the supervision of Damien Hardy <damien.hardy@irisa.fr> (https://team.inria.fr/pacap/members/damien-hardy/)
+
+.SH TALK
+
+Oct. 2023. Radio Intervention, On the importance of Free Softwares in University.
+
+June 2023. Talk, Joke languages, and their implementation (on BaguetteSharp)
+
+Feb. 2023. Flash Talk, Usage of joke languages in the secondary school education (on BaguetteSharp)
+
+.SH PROJECTS
+
+Rust. Calc, A fully-featured configurable (minimalistic) algebric calculator (https://github.com/vanilla-extracts/calc on GPL-3.0-or-later)
+
+OCaml. BaguetteSharp, Creation of an interpreter and REPL of a custom esoteric programming language consisting of french pastries (https://github.com/vanilla-extracts/ocaml-baguettesharp-interpreter on GPL-3.0-or-later)
+
+Java (mostly). Various Personnal Projects, my project since 2013 (see https://github.com/vanilla-extracts)
+
+.SH SKILLS
+
+OS Administration. GNU/Linux (RHEL,CentOS,Debian,Fedora)
+
+Programming Languages. Java, OCaml, SQL, JS, TS, Rust, LaTeX, Typst, C 
+
+Service Administration. Jenking, Gitlab CI, GitHub Actions, Apache2, MySQL, PostegreSQL, NodeJS, NGINX Proxies
+
+Languages: French (native), English (fluent)

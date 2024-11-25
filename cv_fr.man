@@ -1,0 +1,70 @@
+\." My CV, in a MAN page!
+\." Si besoin contacter me@charlotte-thomas.me (pour problème de traduction ou fautes)
+.TH charlotte 8 "2024-11-25" "1.0" "CV de Charlotte (traduction depuis l'anglais)"
+
+.SH NAME
+CV de Charlotte.
+
+.SH AUTHOR
+Charlotte (Ophélie) Thomas - elle/elle - <me@charlotte-thomas.me>
+
+Site Web (en): https://www.charlotte-thomas.me
+
+Blog d'écriture (en): https://writing.charlotte-thomas.me
+
+.SH SYNOPSIS
+curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -
+
+.SH INTRODUCTION
+Développeuse/Admin Système, 22 ans, Experte Linux, Amatrice de Rust & OCaml, Supportrice de Typst
+
+.SH WORK
+Sept. 2024 - maintenant. Ingénieure DevOps, Fonctionnaire d'État, Rennes (35), France
+
+.SH EDUCATION
+Sept. 2022 - Juin 2024, Licence d'Informatique, Université de Rennes, France.
+
+	- Majeure: Informatique
+
+	- Mineures: Sécurité des systèmes et des protocoles de communication.
+
+Sept. 2020 - Juin 2022. Prépa, Lycée Montaigne, Bordeaux, France, (Maths, Informatiques, Physique)
+
+Sept. 2017 - Juin 2020. Bac, Lycée Gustave Eiffel, Bordeaux, France, (Mention Bien)
+
+.SH RECHERCHE
+
+Mai 2024 - Juillet 2024. Stage de recherche, Inria Rennes, Équipe EPICURE, Rennes, France
+
+Reconnaissance morphologique de plantes à l'aide d'une base de donnée de caractéristiques botaniques (projet back-to-the-trees). Maître de stage: Simon Castellan <simon.castellan@inria.fr> (http://iso.mor.phis.me)
+
+Février 2023 - Juillet 2023. Stage de recherche, Inria Rennes, Équipe PACAP, Rennes, France
+
+Optimisation mathématique de l'impression 3D FDM (projet ofast3d). Maître de stage: Damien Hardy <damien.hardy@irisa.fr> (https://team.inria.fr/pacap/members/damien-hardy/)
+
+
+.SH TALK
+
+Octobre 2023. Intervention Radio, Sur l'importance des logiciels libres à l'Université.
+
+Juin 2023. Présentation, Les languages éxotiques et leur implémentation (sur BaguetteSharp)
+
+Février 2023. Présentation flash, L'Utilisation des languages éxotiques pour l'apprentissage secondaire (sur BaguetteSharp)
+
+.SH PROJETS
+
+Rust. Calc, Une calculatrice algébrique configurable (et minimalistite, https://github.com/vanilla-extracts/calc en GPL-3.0-or-later)
+
+OCaml. BaguetteSharp, Création d'un interpréteur et d'un REPL d'un language ésotérique custom, entièrement avec des patisseries françaises (https://github.com/vanilla-extracts/ocaml-baguettesharp-interpreter en GPL-3.0-or-later)
+
+Java (majoritairement). Projets personnels variés, mes projets depuis 2013 (voir https://github.com/vanilla-extracts)
+
+.SH COMPÉTENCES
+
+Administration Système. GNU/Linux (RHEL,CentOS,Debian,Fedora)
+
+Langages de programmation. Java, OCaml, SQL, JS, TS, Rust, LaTeX, Typst, C 
+
+Administration de Services. Jenking, Gitlab CI, GitHub Actions, Apache2, MySQL, PostegreSQL, NodeJS, NGINX Proxies
+
+Langues: Français (langue maternelle), Anglais (bilingue)
