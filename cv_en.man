@@ -61,7 +61,7 @@ Java (mostly). Various Personnal Projects, my project since 2013 (see https://gi
 
 OS Administration. GNU/Linux (RHEL,CentOS,Debian,Fedora)
 
-Programming Languages. Java, OCaml, SQL, JS, TS, Rust, LaTeX, Typst, C 
+Programming Languages. Java, OCaml, Python, SQL, JS, TS, Rust, LaTeX, Typst, C 
 
 Service Administration. Jenking, Gitlab CI, GitHub Actions, Apache2, MySQL, PostegreSQL, NodeJS, NGINX Proxies
 

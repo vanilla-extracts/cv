@@ -63,7 +63,7 @@ Java (majoritairement). Projets personnels variés, mes projets depuis 2013 (voi
 
 Administration Système. GNU/Linux (RHEL,CentOS,Debian,Fedora)
 
-Langages de programmation. Java, OCaml, SQL, JS, TS, Rust, LaTeX, Typst, C 
+Langages de programmation. Java, OCaml, Python, SQL, JS, TS, Rust, LaTeX, Typst, C 
 
 Administration de Services. Jenking, Gitlab CI, GitHub Actions, Apache2, MySQL, PostegreSQL, NodeJS, NGINX Proxies
 
