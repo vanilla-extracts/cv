@@ -2,7 +2,7 @@
 #import "@preview/stonewall:0.1.0": polygender
 
 #show: project.with(
-  title: "IFiP Stagiaire",
+  title: "Fonctionnaire d'État - Experte Linux",
   author: "Charlotte Thomas",
   phone: "+33 7 81 96 98 54",
   email: "me@charlotte-thomas.me",
@@ -15,20 +15,28 @@
 
 
 = Expérience Professionnelle 
+#cventry( 
+  start: (month: "Mai", year: 2025), 
+  end: (month: "Futur", year: 2099),
+  role: [Ingénieure DevOps (Fonctionnaire d'État)],
+  place: "Rennes"
+)[]
+
 #cventry(
   start: (month: "Septembre", year: 2024),
-  end: (month: "Septembre", year: 2025),
-  role: [Inspectrice des Finances Publiques PSE Stagiaire],
-  place: "ENFiP Toulouse"
+  end: (month: "Mai", year: 2025),
+  role: [Fonctionnaire stagiaire, formation initiale],
+  place: "Toulouse"
 )[]
 
 = Scolaire
 #cventry(
   start: (month: "Septembre", year: 2022),
   end: (month: "Juin", year: 2024),
-  role: [Licence d'Informatique],
+  role: [Licence (Science)],
   place: "Université de Rennes, Rennes (35)"
-)[]
+)[Majeure en Informatique, Mineures en Sécurité des Systèmes et des Protocoles
+de Communication]
 
 
 #cventry(
@@ -63,14 +71,15 @@ théorie des langages]
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/vanilla-extracts/calc","GitHub")]
+  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice
+  algébrique configurable, GPL-3.0-or-later sur #link("https://github.com/vanilla-extracts/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Théorie des Langages/Développement_, Développement d'un interpréteur et REPL multiplateforme pour un langage ésotérique, GPLv3 sur #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
+  description: [*Baguette\#*, _Théorie des Langages/Développement_, Développement d'un interpréteur et REPL multiplateforme pour un langage ésotérique, GPL-3.0-or-later sur #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
 )
 
 #cvprogramming(
@@ -86,11 +95,11 @@ théorie des langages]
 
 #cvlanguage(
   language: [_Administration Système_],
-  description: [Linux (Redhat, CentOS, Debian, Ubuntu)],
+  description: [Linux (Redhat, CentOS, Debian, Fedora)],
 )
 
 #cvlanguage(
-  language: [_Langages_],
+  language: [_Programmation_],
   description: [Java, OCaml, Scala, Rust, SQL, Python, JavaScript, LaTeX, Typst]
 )
 
@@ -101,6 +110,6 @@ théorie des langages]
 )
 
 #cvlanguage(
-  language: [_Anglais_],
-  description: [Couramment]
+  language: [_Langue_],
+  description: [Français (langue maternelle), Anglais (bilingue)]
 )

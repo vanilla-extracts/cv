@@ -2,7 +2,7 @@
 #import "@preview/stonewall:0.1.0": polygender
 
 #show: project.with(
-  title: "IFiP Stagiaire",
+  title: "State Civil Servant - Linux Expert",
   author: "Charlotte Thomas",
   github: "vanilla-extracts",
   phone: "+33 7 81 96 98 54",
@@ -14,11 +14,18 @@
 
 
 = Working experience
+#cventry( 
+ start: (month: "May", year: 2025),  
+ end: (month: "Now", year: 2099), 
+ role: [DevOps Engineer (State Civil Servant)], 
+ place: "Rennes (35), France"
+)[]
+
 #cventry(
  start: (month: "September", year: 2024),
- end: (month: "September", year: 2025),
- role: [Inspectrice des Finances Publiques Stagiaire PSE],
- place: "ENFiP Toulouse, France, Toulouse (31)"
+ end: (month: "May", year: 2025),
+ role: [Initial training (Probationary Civil Servant)],
+ place: "Toulouse (31), France"
 )[]
 
 = School
@@ -26,15 +33,16 @@
 #cventry(
   start: (month: "September", year: 2022),
   end: (month: "June", year: 2024),
-  role: [Bachelor of Computer Science],
-  place: "University of Rennes, France, Rennes (35)"
-)[]
+  role: [Bachelor of Science],
+  place: "University of Rennes, Rennes (35), France"
+)[Major in Computer Science, Minors in System and Communication Protocols
+Security]
 
 #cventry(
   start: (month: "September", year: 2020),
   end: (month: "June", year: 2022),
   role: [Prépa | MPSI/MP],
-  place: "Lycée Montaigne, France, Bordeaux (33)"
+  place: "Lycée Montaigne, Bordeaux (33), France"
 )[]
 
 = Academia/Talks
@@ -43,7 +51,7 @@
   start: (month: "May", year: 2024),
   end: (month: "July", year: 2024),
   role: "Research Internship",
-  place: "Inria Rennes, EPICURE, France, Rennes (35)"
+  place: "Inria Rennes, EPICURE, Rennes (35), France"
 )[]
 
 
@@ -51,11 +59,11 @@
   start: (month: "February", year: 2023),
   end: (month: "July", year: 2023),
   role: "Research Internship",
-  place: "Inria Rennes, PACAP, France, Rennes (35)"
+  place: "Inria Rennes, PACAP, Rennes (35), France"
 )[]
 
 
-= Highlights
+= Projects
 
 
 #cvprogramming(
@@ -63,23 +71,15 @@
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Calc*, _Programming, Language Theory_, A minimalistic configurable rust calculator, GPLv3 on #link("https://github.com/vanilla-extracts/calc","GitHub")]
+  description: [*Calc*, _Programming, Language Theory_, A fully-feature
+  configurable algebric Rust calculator, GPL-3.0-or-later on #link("https://github.com/vanilla-extracts/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPLv3 on #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
-)
-
-= Other projects
-#cvprogramming(
-  language: [2020 - 2022],
-  language_name: "C++",
-  icon_name: "icons/brand-cpp.svg",
-  language_colour: rgb("3c3c3c"),
-  description: [*Omega*, _Programming_, Developer on a collaborative firmware for Numworks calculators]
+  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
 )
 
 #cvprogramming(
@@ -93,21 +93,21 @@
 = Skills
 
 #cvlanguage(
-  language: [_OS_],
-  description: [Linux (Redhat, CentOS, Debian, Ubuntu)],
+  language: [_System Administration_],
+  description: [Linux (Redhat, CentOS, Debian, Fedora)],
 )
 
 #cvlanguage(
-  language: [_Languages_],
-  description: [Java, OCaml, SQL, JavaScript, LaTeX, Typst]
+  language: [_Programming Languages_],
+  description: [Java, Python, OCaml, SQL, JS, TS, Rust, LaTeX, Typst]
 )
 
 #cvlanguage(
-  language: [_Admin._],
+  language: [_Administration_],
   description: [Jenkins, Gitlab CI, GitHub Actions, Apache2, MySQL, NodeJS, SparkJava, NGINX proxies]
 )
 
 #cvlanguage(
-  language: [_English_],
-  description: [Fluent]
+  language: [_Languages_],
+  description: [French (native), English (fluent)]
 )

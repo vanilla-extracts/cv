@@ -102,7 +102,8 @@
       #v(-1.2em)
     
       // Title row.
-      #block(text(weight: 400, 1.5em, title, style: "italic", fill: job_color))
+      #block(text(weight: 400, 1.3em, title, style: "italic", fill: job_color))
+      
     ],
     align(right + top)[
       // Contact information
