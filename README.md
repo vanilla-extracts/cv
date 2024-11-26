@@ -1,95 +1,110 @@
-<h1 align="center"> Charlotte Thomas </h1>
-<div align="center">
-<a href="docs/img/pfp.jpg"><img width="500px" src="docs/img/pfp.jpg"></a>
-</div>
+## Charlotte Thomas 
 
-## I, Me, Myself
-<div align="center">
-<a href="https://www.scribblehub.com/profile/49937/coco33920/"><img src="https://img.shields.io/badge/Writting-ScribbleHub-55cdfc?style=for-the-badge&logo=wattpad&logoColor=f7a8d8" alt="Writting - ScribbleHub"></a>
-<br>
-<br>
-<a href="https://github.com/coco33920/cv/blob/master/cv_2023.pdf"><img src="https://img.shields.io/badge/CV-FR_PDF-55cdfc?style=for-the-badge"></a>
-<a href="https://github.com/coco33920/cv/blob/master/cv_2023_en.pdf"><img src="https://img.shields.io/badge/CV-EN_PDF-55cdfc?style=for-the-badge"></a>
-<br>
-<a href="https://baguettesharp.nwa2coco.fr"><img src="https://img.shields.io/badge/Web-Baguette%23-inactive?style=for-the-badge" alt="Web - Baguette#"></a>
-<a href="https://agh.nwa2coco.fr"><img src="https://img.shields.io/badge/Web-Public_Stories-inactive?style=for-the-badge" alt="Web - Public Stories"></a>
-<a href="https://calc.nwa2coco.fr"><img src="https://img.shields.io/badge/Web-Calc-inactive?style=for-the-badge"/></a>
-<br>
-<a href="https://github.com/coco33920"><img src="https://img.shields.io/badge/Social-GitHub-f7a8d8?style=for-the-badge&logo=github&logoColor=f7a8d8" alt="Social - GitHub"></a>
-<a href="https://twitter.com/coco33920"><img src="https://img.shields.io/badge/Social-Twitter-f7a8d8?style=for-the-badge&logo=twitter&logoColor=f7a8d8" alt="Social - Twitter"></a>
-<a href=""><img></a>
-</div>
+### Bio 
 
-### About Me
-Hello! I'm Charlotte THOMAS, 21 yo, and currently a Computer Science Student @ University of Rennes (France, 35).
+Hi! My name is Charlotte Thomas, I'm a 22 y.o French Developer, System admin
+(Linux Expert), and general IT Specialist. I have a good job and I like it so if you're a
+recruiter you do not need to send me an email.
 
-I was formerly in *prépa* but due to health related problems I failed, I then went to University for the September 2022 semester.
+Same if you're looking for a developer to commission please search someone else
+I'm not your gal.
 
-I study Theoretical Computer Science on the side, focussing on formal languages.
-My language of choice is now **OCaml** or **Rust** and I have ten years of experience coding in *java*
+I love a variety of language, my languages of choice nowadays are _Rust_ and
+_OCaml_. 
 
-Links:
-* [GitHub](https://github.com/coco33920)
-* [Twitter](https://twitter.com/coco33920)
+My favourite projects are [Calc](https://codeberg.org/vanilla-extract/calc) and
+[BaguetteSharp](https://github.com/vanilla-extract/ocaml-baguettesharp-interpreter).
 
-## School
-I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
+I like writing parsers, interpreters, and compilers. I settled into a basic
+technique of _pratt-parsing_ from _Calc_ and newer projects.
 
-I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes University. In third year of a BSc, majoring in CS.
+### Queer
 
-### Academia/Talks 
+I am a queer woman. I am (not-exaustively), intersex, lesbian, asexual,
+demiromantic, and polyamorous.
 
-* Radio intervention (on free software), podcast available [here (french)](https://cause-commune.fm/podcast/libre-a-vous-187/)
+If you need help from a queer person, **please**, contact me you can see
+[here](#about-me) how to contact me. Especially if you're in France, I can see where I
+can help you, do not hesitate to reach out, I answer pretty quickly.
 
-* Talk at Pas Sage En Seine (Choisy-Le-Roi, France, 94) on exotic programmation as a tool for students and professors. 
+Contact me with either of these topic emails, I will be able to answer quicker
+`{queer|help} [at] me.charlotte-thomas.me`
+`me+{queer|help} [at] charlotte-thomas.me`
 
-* Last year I was in research internship at PACAP @ IRISA/Inria Rennes, [Team PACAP](https://team.inria.fr/pacap/presentation/) from february until July, where I worked on 3D printing to optimize code, starting with mathematical transformation of GCode.
+### Writing
 
-## Working experience
-I spent a month working in the IT department of the French *Direction Générale des Finances Publiques* (which is somewhat equivalent to the IRS to be simple).
+I am also a [_writer_](https://writing.charlotte-thomas.me). I wrote a short-story, and I used to write a novel.
+I scrapped this novel to write a new one, based on the same idea but rewrote
+from the ground up, with improved prose grammar and everything (including real
+beta-readers!). 
 
-##  Queer life
-I'm a Queer, transgender, intersex and asexual girl based in France. Advocating for trans right and intersex right, I follow an intersectional feminism open to all, in support of all women. 
+This new novel is _Galactic Consequences_ you can find the [_writing
+blog_](https://writing.charlotte-thomas.me/blog/) here where I post the
+development of the novel. 
 
-As you probably deduced from the badges. Yes. I like the trans flag. A lot.
+### General blog 
 
-On HRT for more than four years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
-* charlotte.sfiacademy [at] gmail.com
-* charlotte [at] nwa2coco.fr
+You can find bits of my life in the [blog](blog/) section of this website. I
+post things I like, very-rarely. 
 
-You can ask me for a legal transition package which packs a lot of informations to do a legal transition in France. I'll send it to you.
+I'll try to write some more there.
 
-See my [pronouns page here](https://en.pronouns.page/@charlotte4)
+## CV 
 
-## Projects (dev)
+### I. Work experience
 
-### Highlights / Active projects
-My favourite projets / active are:
+- DevOps Engineer, general IT Specialist, Civil Servant. *Rennes, France*.
 
-* [Calc](https://calc.nwa2coco.fr): A fully featured minimalistic rust calculator, licensed in GPLv3, available on [GitHub](https://github.com/coco33920/calc)
-* [The Baguette#](https://baguettesharp.nwa2coco.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
-* [Boulangerie](https://github.com/coco33920/boulangerie), part of the Baguette# ecosystem, discover Boulangerie, the Baguette# package manager
-* [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a logic language parser
+### II. Education
+
+- Bachelor of Science, major in Computer Science, minor in system security and security of communication protocols, University of *Rennes, France*.
+
+- Prépa (a french _cram school_), Lycée Michel Montaigne, *Bordeaux, France*.
+
+### III. Academia 
+
+- Research internship, _Inria Rennes, EPICURE_, morphological recognition of plants. 
+
+- Research internship, _Inria Rennes, PACAP_, FDM 3D printing optimisation.
+
+- Radio Talk on the importance of free software in universities and in my life [here (in french)](https://cause-commune.fm/podcast/libre-a-vous-187/).
+
+- Talk on joke programming language for fun (BaguetteSharp).
+
+- Flash Talk on joke programming language for academic usage and secondary education (BaguetteSharp).
+
+### A. Full CV
+
+You can find my CV on the following format here:
+- [French PDF](static/cv_fr.pdf),
+- [English PDF](static/cv_en.pdf),
+- [French Man Page](static/cv_fr.man),
+- [English Man Page](static/cv_en.man).
+
+The source code (Typst file, Typst template, and man pages) of my CV can be found on the [GitHub repo](https://github.com/vanilla-extracts/cv).
+
+To open the man page just do (depending on the language):
+
+`curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -` 
+`curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -`
 
 
-### Old projects
-These projects are either abandoned or archived, you can use them (most of them are under the MIT Licence, consider those without licences as CC0) but I do not provide any support whatsoever
+## About Me
+I am using she/they pronouns and feminine accords. 
 
+My [webpage](https://www.charlotte-thomas.me) is there, it _should_ have a blog,
+maybe, in the future but for now my bloging is for my [writing
+blog](https://writing.charlotte-thomas.me/blog/).
 
-* [Stories](https://agh.nwa2coco.fr) A website to centralise my stories and web novels. Written in Markdown, powered by GH-Page
-* [A Galactic HRT](https://agh.nwa2coco.fr#agh) My main Science-Fiction/Drama/Tragedy/Romance story in PDF/HTML, written in LaTeX converted to HTML later.
-* [Wakatime Libreoffice](https://github.com/coco33920/wakatime-libreoffice) A WIP extension for LibreOffice to provides community support for [wakatime](https://wakatime.com) for LibreOffice/OpenOffice
+You can find my [writing website](https://writing.charlotte-thomas.me) here,
+it's the blog and central place for all writing (novel and short stories).
 
-* [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
-* [HTMLFromTeXBooks](https://github.com/coco33920/HTMLFromTeXBooks) A simple program to transforms TeX Books (simple) in HTML (for publishing on ScribbleHub for example!)
-* [Automatic Report System](https://github.com/sfi-region9/) a client-server ecosystem mostly written in Java to automate reports to a hierarchy composed of
-  * [Automatic Report Server](https://github.com/sfi-region9/AutomaticReportServer) The server written in Java, powered by SparkJava
-  * [Automatic Report Website](https://github.com/sfi-region9/ARS-Website) The new web-based client, written in Java, powered by Vaadin
-  * [ARSAuth](https://github.com/sfi-region9/ARSAuth) The Authentification server providing tokens for the API.
-* [KSPController](https://github.com/coco33920/KSPController) A Java based code (using kRPC mod and API) to connect to a kRPC server and control a rocket in Kerbal Space Program with components, interfacing with a Raspberry Pi Zero
-* [AdafruitSeesawJava](https://github.com/coco33920/AdafruitSeesawJava) A Java Driver using I2C and Pi4J to interface with the Adafruit Seesaw Expander for Raspberry Pi
-* [BaguetteSharp OG](https://github.com/coco33920/baguette-sharp) The Original Baguette# forked from Ikea# in GO, the new version is much better but this started everything.
-
-## Writing
-I recently started writing. Go check 
-my [ScribbleHub](https://www.scribblehub.com/profile/49937/coco33920/) page or my stories [website](https://agh.nwa2coco.fr)
+You can find me there:
+- [GitHub, as _vanilla-extracts_](https://github.com/vanilla-extracts)
+- [CodeBerg as _vanilla-extracts_](https://codeberg.org/vanilla-extracts)
+- Discord, as _vanilla_extracts_
+- Email regarding my writing, `gc [at] charlotte-thomas.me`
+- General Email, `me [at] charlotte-thomas.me`
+- Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
+- Threads/IG, as _vanilla.extracts_
+- [Ko-Fi as vanilla_extracts](https://ko-fi.com/vanilla_extracts)
