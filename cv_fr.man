@@ -2,10 +2,10 @@
 \." Si besoin contacter me@charlotte-thomas.me (pour problème de traduction ou fautes)
 .TH charlotte 8 "2024-11-25" "1.0" "CV de Charlotte (traduction depuis l'anglais)"
 
-.SH NAME
+.SH NOM
 CV de Charlotte.
 
-.SH AUTHOR
+.SH AUTRICE
 Charlotte (Ophélie) Thomas - elle/elle - <me@charlotte-thomas.me>
 
 Site Web (en): https://www.charlotte-thomas.me
@@ -18,10 +18,10 @@ curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -
 .SH INTRODUCTION
 Développeuse/Admin Système, 22 ans, Experte Linux, Amatrice de Rust & OCaml, Supportrice de Typst
 
-.SH WORK
+.SH EXP. PRO. 
 Sept. 2024 - maintenant. Ingénieure DevOps, Fonctionnaire d'État, Rennes (35), France
 
-.SH EDUCATION
+.SH PARCOURS SCOLAIRE
 Sept. 2022 - Juin 2024, Licence d'Informatique, Université de Rennes, France.
 
 	- Majeure: Informatique
