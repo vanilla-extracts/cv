@@ -108,3 +108,35 @@ You can find me there:
 - Topic email, `{topic} [at] me.charlotte-thomas.me` or `me+{topic} [at] charlotte-thomas.me`
 - Threads/IG, as _vanilla.extracts_
 - [Ko-Fi as vanilla_extracts](https://ko-fi.com/vanilla_extracts)
+
+## Building this cv 
+To build this CV you need the `typst` executable in your path, there is no
+particular font needed.
+
+You also need an access to the internet to download the packages at least once.
+
+### Building french
+```bash 
+make
+```
+or 
+```bash 
+make french
+```
+
+If you want to compile in watch (pdf viewver: Evince)
+
+```bash 
+make watch
+```
+
+### Building english
+```bash 
+make english
+```
+
+In watch,
+
+```bash 
+make watch_en
+```
