@@ -12,8 +12,8 @@ all:
 	make french
 	make english
 cp:
-	cp cv_2025.pdf /home/charlotte/Documents/docsoff/cv_2025.pdf
-	cp cv_2025_en.pdf /home/charlotte/Documents/docsoff/cv_2025_en.pdf
+	cp cv_2025.pdf /home/charlotte/Documents/docsoff/cv/cv_fr.pdf
+	cp cv_2025_en.pdf /home/charlotte/Documents/docsoff/cv/cv_en.pdf
 site:
 	cp cv_2025.pdf /home/charlotte/Documents/dev/website/raw/static/cv_fr.pdf
 	cp cv_2025_en.pdf /home/charlotte/Documents/dev/website/raw/static/cv_en.pdf
