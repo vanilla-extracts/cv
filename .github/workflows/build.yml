@@ -19,7 +19,7 @@ jobs:
           tar xvf typst-x86_64-unknown-linux-musl.tar.xz 
           mv typst-x86_64-unknown-linux-musl/typst . 
       - name: Compile Files
-        runs: | 
+        run: | 
           ./typst c cv_2025.typ
           ./typst c cv_2025_en.typ
       - name: Commit compiled PDFs
