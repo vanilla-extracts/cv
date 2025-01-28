@@ -72,14 +72,14 @@ Security]
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
   description: [*Calc*, _Programming, Language Theory_, A fully-feature
-  configurable algebric Rust calculator, GPL-3.0-or-later on #link("https://github.com/vanilla-extracts/calc","GitHub")]
+  configurable algebric Rust calculator, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
+  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
 )
 
 #cvprogramming(
@@ -87,7 +87,7 @@ Security]
   language_name: "Java",
   icon_name: "icons/brand-java.svg",
   language_colour: rgb("5382A1"),
-  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #link("https://github.com/vanilla-extracts","GitHub")]
+  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #icon("icons/gitub.svg") #link("https://github.com/vanilla-extracts","GitHub")]
 )
 
 = Skills
