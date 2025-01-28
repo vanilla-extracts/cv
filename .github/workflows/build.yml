@@ -13,11 +13,15 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-      - name: Compile Typst to PDF
-        uses: ammar-ahmed22/compile-typst-action@v1
-        with:
-          source_paths: 'cv_2025.typ'
-          output_paths: 'cv_2025.pdf'
+      - name: Install Typst 
+        run: |
+          wget https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz 
+          tar xvf typst-x86_64-unknown-linux-musl.tar.xz 
+          mv typst-x86_64-unknown-linux-musl/typst . 
+      - name: Compile Files
+        runs: | 
+          ./typst c cv_2025.typ
+          ./typst c cv_2025_en.typ
       - name: Commit compiled PDFs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
