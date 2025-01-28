@@ -87,7 +87,7 @@ Security]
   language_name: "Java",
   icon_name: "icons/brand-java.svg",
   language_colour: rgb("5382A1"),
-  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #icon("icons/gitub.svg") #link("https://github.com/vanilla-extracts","GitHub")]
+  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #icon("icons/github.svg") #link("https://github.com/vanilla-extracts","GitHub")]
 )
 
 = Skills
