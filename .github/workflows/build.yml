@@ -22,6 +22,9 @@ jobs:
         run: | 
           ./typst c cv_2025.typ
           ./typst c cv_2025_en.typ
+      - name: Clean 
+        run: |
+          rm -rf typst*
       - name: Commit compiled PDFs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
