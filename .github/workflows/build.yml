@@ -1,8 +1,9 @@
 name: Compile and Commit Typst Files
 on:
   push:
-    branches:
-      - mistress
+    paths:
+      - cv_2025.typ
+      - cv_2025_en.typ
   workflow_dispatch:
 
 permissions:
