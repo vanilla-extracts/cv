@@ -8,8 +8,7 @@
   email: "me@charlotte-thomas.me",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
-  pronouns: "Elle/She/They 22F",
-  address: [2 allée Antoine Osète, 31100, Toulouse]
+ address: [2 allée Antoine Osète, 31100, Toulouse]
 )
 
 
