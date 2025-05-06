@@ -1,6 +1,6 @@
 \." My CV, in a MAN page!
 \." Contact me@charlotte-thomas.me if needed
-.TH charlotte 8 "2024-11-25" "1.0" "Charlotte's CV"
+.TH charlotte 8 "2025-05-06" "1.1" "Charlotte's CV"
 
 .SH NAME
 Charlotte's CV
@@ -63,6 +63,6 @@ OS Administration. GNU/Linux (RHEL,CentOS,Debian,Fedora)
 
 Programming Languages. Java, OCaml, Python, SQL, JS, TS, Rust, LaTeX, Typst, C 
 
-Service Administration. Jenking, Gitlab CI, GitHub Actions, Apache2, MySQL, PostegreSQL, NodeJS, NGINX Proxies
+Service Administration. Jenking, Gitlab CI, GitHub Actions, Apache2, MySQL, PostegreSQL, NodeJS, NGINX, Terraform, Ansible
 
 Languages: French (native), English (fluent)
