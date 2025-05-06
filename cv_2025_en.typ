@@ -14,18 +14,18 @@
 
 
 = Working experience
-#cventry( 
- start: (month: "May", year: 2025),  
- end: (month: "Now", year: 2099), 
- role: [DevOps Engineer (State Civil Servant)], 
- place: "Rennes (35), France"
+#cventry(
+  start: (month: "May", year: 2025),
+  end: (month: "Now", year: 2099),
+  role: [DevOps Engineer (State Civil Servant)],
+  place: "Rennes (35), France",
 )[]
 
 #cventry(
- start: (month: "September", year: 2024),
- end: (month: "May", year: 2025),
- role: [Initial training (Probationary Civil Servant)],
- place: "Toulouse (31), France"
+  start: (month: "September", year: 2024),
+  end: (month: "May", year: 2025),
+  role: [Initial training (Probationary Civil Servant)],
+  place: "Toulouse (31), France",
 )[]
 
 = School
@@ -34,15 +34,15 @@
   start: (month: "September", year: 2022),
   end: (month: "June", year: 2024),
   role: [Bachelor of Science],
-  place: "University of Rennes, Rennes (35), France"
+  place: "University of Rennes, Rennes (35), France",
 )[Major in Computer Science, Minors in System and Communication Protocols
-Security]
+  Security]
 
 #cventry(
   start: (month: "September", year: 2020),
   end: (month: "June", year: 2022),
   role: [Prépa | MPSI/MP],
-  place: "Lycée Montaigne, Bordeaux (33), France"
+  place: "Lycée Montaigne, Bordeaux (33), France",
 )[]
 
 = Academia/Talks
@@ -51,7 +51,7 @@ Security]
   start: (month: "May", year: 2024),
   end: (month: "July", year: 2024),
   role: "Research Internship",
-  place: "Inria Rennes, EPICURE, Rennes (35), France"
+  place: "Inria Rennes, EPICURE, Rennes (35), France",
 )[]
 
 
@@ -59,7 +59,7 @@ Security]
   start: (month: "February", year: 2023),
   end: (month: "July", year: 2023),
   role: "Research Internship",
-  place: "Inria Rennes, PACAP, Rennes (35), France"
+  place: "Inria Rennes, PACAP, Rennes (35), France",
 )[]
 
 
@@ -72,14 +72,14 @@ Security]
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
   description: [*Calc*, _Programming, Language Theory_, A fully-feature
-  configurable algebric Rust calculator, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/calc","GitHub")]
+    configurable algebric Rust calculator, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/calc", "GitHub")],
 )
 #cvprogramming(
   language: [2021 - ],
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/STARFinder","GitHub")]
+  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/STARFinder", "GitHub")],
 )
 
 #cvprogramming(
@@ -87,7 +87,7 @@ Security]
   language_name: "Java",
   icon_name: "icons/brand-java.svg",
   language_colour: rgb("5382A1"),
-  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #icon("icons/github.svg") #link("https://github.com/vanilla-extracts","GitHub")]
+  description: [*Various Personnal Projects*, _Programming and System Administration_, Page #icon("icons/github.svg") #link("https://github.com/vanilla-extracts", "GitHub")],
 )
 
 = Skills
@@ -99,15 +99,15 @@ Security]
 
 #cvlanguage(
   language: [_Programming Languages_],
-  description: [Java, Python, OCaml, SQL, JS, TS, Rust, LaTeX, Typst]
+  description: [Java, Python, OCaml, SQL, JS, TS, Rust, LaTeX, Typst],
 )
 
 #cvlanguage(
   language: [_Administration_],
-  description: [Jenkins, Gitlab CI, GitHub Actions, Apache2, MySQL, NodeJS, SparkJava, NGINX proxies]
+  description: [Jenkins, Gitlab CI, GitHub Actions, Apache2, MySQL, NodeJS, SparkJava, NGINX, Ansible, Terraform],
 )
 
 #cvlanguage(
   language: [_Languages_],
-  description: [French (native), English (fluent)]
+  description: [French (native), English (fluent)],
 )
