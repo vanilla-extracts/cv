@@ -9,7 +9,7 @@
   email: "me@charlotte-thomas.me",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
-  pronouns: "She/They 22F",
+  pronouns: "She/They 23F",
 )
 
 
