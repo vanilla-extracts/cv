@@ -16,7 +16,7 @@ Writing blog: https://writing.charlotte-thomas.me
 curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -
 
 .SH INTRODUCTION
-22 y.o French Dev/Sys Admin, Linux Expert, Rust and OCaml lover, Typst supporter. 
+23 y.o French Dev/Sys Admin, Linux Expert, Rust and OCaml lover, Typst supporter. 
 
 .SH WORK
 Sept. 2024 - now. DevOps Engineer, State Civil Servant, Rennes (35), France.

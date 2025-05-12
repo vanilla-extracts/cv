@@ -16,7 +16,7 @@ Blog d'écriture (en): https://writing.charlotte-thomas.me
 curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -
 
 .SH INTRODUCTION
-Développeuse/Admin Système, 22 ans, Experte Linux, Amatrice de Rust & OCaml, Supportrice de Typst
+Développeuse/Admin Système, 23 ans, Experte Linux, Amatrice de Rust & OCaml, Supportrice de Typst
 
 .SH EXP. PRO. 
 Sept. 2024 - maintenant. Ingénieure DevOps, Fonctionnaire d'État, Rennes (35), France
