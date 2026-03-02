@@ -79,7 +79,7 @@
   language_name: " OCaml",
   icon_name: "icons/brand-ocaml.svg",
   language_colour: rgb("ee6a1a"),
-  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/STARFinder", "GitHub")],
+  description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPL-3.0-or-later on #icon("icons/github.svg") #link("https://github.com/vanilla-extracts/ocaml-baguettesharp-interpreter", "GitHub")],
 )
 
 #cvprogramming(
