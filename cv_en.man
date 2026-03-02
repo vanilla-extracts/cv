@@ -10,7 +10,7 @@ Charlotte (Ophélie) Thomas - she/they - <me@charlotte-thomas.me>
 
 Website: https://www.charlotte-thomas.me
 
-Writing blog: https://writing.charlotte-thomas.me
+Writing blog: https://analgesia.icu
 
 .SH SYNOPSIS
 curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -
@@ -51,9 +51,9 @@ Feb. 2023. Flash Talk, Usage of joke languages in the secondary school education
 
 .SH PROJECTS
 
-Rust. Calc, A fully-featured configurable (minimalistic) algebric calculator (https://github.com/vanilla-extracts/calc on GPL-3.0-or-later)
+Rust. Calc, A fully-featured configurable (minimalistic) algebric calculator (https://github.com/vanilla-extracts/calc, GPL-3.0-or-later)
 
-OCaml. BaguetteSharp, Creation of an interpreter and REPL of a custom esoteric programming language consisting of french pastries (https://github.com/vanilla-extracts/ocaml-baguettesharp-interpreter on GPL-3.0-or-later)
+OCaml. BaguetteSharp, Creation of an interpreter and REPL of a custom esoteric programming language consisting of french pastries (https://github.com/vanilla-extracts/ocaml-baguettesharp-interpreter, GPL-3.0-or-later)
 
 Java (mostly). Various Personnal Projects, my project since 2013 (see https://github.com/vanilla-extracts)
 

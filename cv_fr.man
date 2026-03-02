@@ -10,7 +10,7 @@ Charlotte (Ophélie) Thomas - elle/elle - <me@charlotte-thomas.me>
 
 Site Web (en): https://www.charlotte-thomas.me
 
-Blog d'écriture (en): https://writing.charlotte-thomas.me
+Blog d'écriture (en): https://analgesia.icu
 
 .SH SYNOPSIS
 curl https://www.charlotte-thomas.me/static/cv_fr.man | man -l -
